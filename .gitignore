@@ -1,0 +1,12 @@
+# Virtual environment
+.venv/
+.env/
+
+# Django settings that may contain sensitive data
+*.sqlite3
+*.db
+.env
+.env.local
+*.secret
+config.json
+
